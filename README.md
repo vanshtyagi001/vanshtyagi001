@@ -1,13 +1,18 @@
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/94922914/233506434-36031a8f-41f2-4c8d-9252-3624edfb0953.gif" width="100%" />
 
-# Hi 👋 I'm Vansh Tyagi
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vansh+Tyagi;Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Real+World+Projects"/>
+</p>
+
+---
+
 ### 🚀 Full Stack Developer | BTech Student | Tech Enthusiast
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=vanshtyagi001&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=vanshtyagi001&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -17,16 +22,16 @@
 
 - 🎓 BTech Student passionate about **Software Development**
 - 💻 Full Stack Developer focused on **modern web technologies**
-- 🚀 Currently building **Bus Tracker – Lok Yatra**
+- 🚌 Currently building **Bus Tracker – Lok Yatra**
 - 🧠 Learning **Advanced MERN Stack & System Design**
-- 🔍 Interested in **AI-powered applications & real-time systems**
-- 📈 Goal: **To build impactful products and work in a top tech company**
+- 🤖 Interested in **AI-powered applications & real-time systems**
+- 🎯 Goal: **Build impactful products and work at a top tech company**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="">
 <a href="https://twitter.com/mevanshtyagi"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 <a href="https://linkedin.com/in/vanshtyagi20"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://instagram.com/_vanshtyagi20"><img src="https://skillicons.dev/icons?i=instagram"/></a>
@@ -37,7 +42,7 @@
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -59,7 +64,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
+### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -70,24 +75,24 @@
 
 ## 🚌 Bus Tracker – Lok Yatra
 
-A **real-time public transport ecosystem** designed to modernize bus networks in smart cities.  
-The platform allows passengers to track buses live while administrators and staff manage routes and operations through dedicated dashboards.
+A **real-time public transport ecosystem** designed to modernize bus networks in smart cities.
+
+Passengers can **track buses live**, while administrators and staff manage routes and operations through dedicated dashboards.
 
 ### Key Features
 
-- 📍 **Real-time bus tracking** using GPS and WebSockets  
-- 🔎 **Smart route search with live ETA calculation**  
-- 👨‍✈️ **Staff dashboard** for bus conductors to broadcast location  
-- ⚙️ **Admin panel** for managing routes, buses, and staff  
-- 🗺️ **Interactive city-wide route maps**  
-- 🚨 **Emergency SOS system for passenger safety**
+- 📍 Real-time bus tracking using GPS and WebSockets  
+- 🔎 Smart route search with live ETA calculation  
+- 👨‍✈️ Staff dashboard for bus conductors  
+- ⚙️ Admin panel for routes, buses, and staff  
+- 🗺️ Interactive city-wide route maps  
+- 🚨 Emergency SOS system for passenger safety  
 
 ### Tech Stack
 
-Node.js • Express.js • MongoDB • Socket.IO • Leaflet.js • JWT Authentication • Turf.js
+Node.js • Express.js • MongoDB • Socket.IO • Leaflet.js • JWT • Turf.js
 
-🔗 Repository  
-https://github.com/vanshtyagi001/bus-tracker
+🔗 https://github.com/vanshtyagi001/bus-tracker
 
 ---
 
@@ -95,9 +100,9 @@ https://github.com/vanshtyagi001/bus-tracker
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanshtyagi001&show_icons=true&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanshtyagi001&show_icons=true&theme=radical" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=vanshtyagi001&theme=radical&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=vanshtyagi001&theme=radical&hide_border=true" height="170"/>
 
 </p>
 
@@ -105,18 +110,32 @@ https://github.com/vanshtyagi001/bus-tracker
 
 # 📈 Most Used Languages
 
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshtyagi001&layout=compact&theme=radical"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
+<p align="center">
+
 <img src="https://github-trophies.vercel.app/?username=vanshtyagi001&theme=onestar&no-frame=true"/>
+
+</p>
 
 ---
 
-# ✨ Developer Quote
+# 📈 Contribution Graph
 
-> "Code is not just about solving problems — it's about building solutions that impact people."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshtyagi001&theme=tokyo-night"/>
+
+---
+
+# 💡 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 ---
