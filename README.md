@@ -94,7 +94,7 @@ Passengers can **track buses live**, while administrators and staff manage route
 
 Node.js • Express.js • MongoDB • Socket.IO • Leaflet.js • JWT • Turf.js
 
-🔗 https://github.com/vanshtyagi001/bus-tracker
+🔗 [https://github.com/vanshtyagi001/bus-tracker](https://github.com/vanshtyagi001/lok-yatra-bus-tracker)
 
 ---
 
